@@ -5,11 +5,13 @@ Esta es la branch test
 
 ##### v.3.0.21 - 2017-05-19
 * Fixed bug with overflow detection which degraded performance of textareas that exceed their max-width. Fixes #333.
-
+Este es el cambio que quiero dejar
 ##### v.3.0.20 - 2016-12-04
 * Fixed minor bug where the `resized` event would not fire under specific conditions when changing the overflow.
-
 ##### v.3.0.19 - 2016-11-23
+
+Este cambio lo hago mas tardes
+
 * Bubble dispatched events. Merged #319.
 
 ##### v.3.0.18 - 2016-10-26
