@@ -1,4 +1,5 @@
 ## Changelog
+<<<<<<< HEAD
 Este es Nuevo proyecto primer cambio
 ##### v.4.0.2 - 2018-04-30
 * More specific detection of when to change overflow. Merges #361.
@@ -6,16 +7,21 @@ Este es Nuevo proyecto primer cambio
 ##### v.4.0.1 - 2018-03-23
 * Minor refactor & updated build dependencies
 
+=======
+Esta es la branch test
+>>>>>>> TestPoyecto
 ##### v.4.0.0 - 2017-07-12
 * Changed how Autosize determines the initial height. Fixes #336.
 
 ##### v.3.0.21 - 2017-05-19
 * Fixed bug with overflow detection which degraded performance of textareas that exceed their max-width. Fixes #333.
-
+Este es el cambio que quiero dejar
 ##### v.3.0.20 - 2016-12-04
 * Fixed minor bug where the `resized` event would not fire under specific conditions when changing the overflow.
-
 ##### v.3.0.19 - 2016-11-23
+
+Este cambio lo hago mas tardes
+
 * Bubble dispatched events. Merged #319.
 
 ##### v.3.0.18 - 2016-10-26
