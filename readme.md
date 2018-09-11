@@ -19,6 +19,7 @@ yes    | yes     | 9  | yes    | yes        | 4       | ?          | 8.1
 
 #### Usage
 
+Este cambio es en el medio y no lo quiero hacer ahora
 The autosize function accepts a single textarea element, or an array or array-like object (such as a NodeList or jQuery collection) of textarea elements.
 
 ```javascript
