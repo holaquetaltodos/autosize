@@ -1,4 +1,5 @@
 ## Changelog
+<<<<<<< HEAD
 Otro  cambio en ActualMaster Branch
 ##### v.4.0.2 - 2018-04-30
 * More specific detection of when to change overflow. Merges #361.
@@ -10,6 +11,10 @@ Otro  cambio en ActualMaster Branch
 * Changed how Autosize determines the initial height. Fixes #336.
 
 ##### v.3.0.21 - 2017-05-19
+=======
+Hola cambio 1 en Mas Vieja Branch
+##### v.3.0.21 - 2016-05-19
+>>>>>>> MasVieja
 * Fixed bug with overflow detection which degraded performance of textareas that exceed their max-width. Fixes #333.
 
 ##### v.3.0.20 - 2016-12-04
