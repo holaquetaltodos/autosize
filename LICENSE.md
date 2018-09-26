@@ -1,5 +1,5 @@
 The MIT License (MIT)
-Este cambio no lo quiero hacer comit ahroa
+
 Copyright (c) 2015 Jack Moore
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
