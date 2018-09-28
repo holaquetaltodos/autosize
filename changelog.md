@@ -1,9 +1,13 @@
 ## Changelog
 <<<<<<< HEAD
+<<<<<<< HEAD
 Esta es la branch test
 =======
 <<<<<<< HEAD
 Otro  cambio en ActualMaster Branch
+=======
+Este es Nuevo proyecto primer cambio
+>>>>>>> Nuevo proyecto comit
 ##### v.4.0.2 - 2018-04-30
 * More specific detection of when to change overflow. Merges #361.
 
