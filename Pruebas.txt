@@ -1,2 +1,15 @@
 asdf 
+<<<<<<< HEAD
 asdfasdf asfasdf 
+aasdfasdfas asdf asdf asdf asdf asdf 
+asdfasdf asd fasd fas dfa sdf asdf asd fas dfasdf
+=======
+<<<<<<< HEAD
+asdfasdf asfasdf 
+aasdfasdfas asdf asdf asdf asdf asdf 
+asdfasdf asd fasd fas dfa sdf asdf asd fas dfasdf
+asdfasdf asdfa asdfdadsf  asdfa adsfasdf  asdfasdf a fasdf asdfasdf
+=======
+asdfasdf asfasdf 
+>>>>>>> parent of 0815234... prueba 2
+>>>>>>> bd4132756027e52988b909a6f8469949e34996d1
