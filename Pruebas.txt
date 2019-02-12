@@ -1,5 +1,9 @@
 asdf 
+<<<<<<< HEAD
 asdfasdf asfasdf 
 aasdfasdfas asdf asdf asdf asdf asdf 
 asdfasdf asd fasd fas dfa sdf asdf asd fas dfasdf
 asdfasdf asdfa asdfdadsf  asdfa adsfasdf  asdfasdf a fasdf asdfasdf
+=======
+asdfasdf asfasdf 
+>>>>>>> parent of 0815234... prueba 2
